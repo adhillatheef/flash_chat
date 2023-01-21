@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006827603745",
+    "project_id": "flash-chat-a7b39",
+    "storage_bucket": "flash-chat-a7b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006827603745:android:edca52af98897a9be4a060",
+        "android_client_info": {
+          "package_name": "com.adhillatheef.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006827603745-ektcqam7mpl30s1qs8flbfck5fveud6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCok5lP_wvrjb-hRacgSFoOnAdN0aP2Kn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006827603745-ektcqam7mpl30s1qs8flbfck5fveud6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
